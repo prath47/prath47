@@ -10,7 +10,7 @@
  
 🔭 I’m currently working on *Full Stack Projects*
  
-🌱 I’m currently looking out for Job Opportunities
+🌱 I’m currently Working as SDE
 
 🎆 How to reach me *prath47@gmail.com*
 
