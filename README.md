@@ -2,15 +2,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Prathmesh!;" />
 </h1>
 
-<h2 align="center">A passionate Full Stack Web developer</h2>
+<h2 align="center">A passionate Software Developer</h2>
 
 <br/>
 
 <div align="center">
  
-🔭 I’m currently working on *Full Stack Projects*
+🔭 I’m currently working as Full Time *SDE Intern*
  
-🌱 I’m currently Working as SDE
+🌱 I’m currently Working at Valuefy
 
 🎆 How to reach me *prath47@gmail.com*
 
