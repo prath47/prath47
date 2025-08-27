@@ -8,9 +8,9 @@
 
 <div align="center">
  
-🔭 I’m currently working as Full Time *SDE Intern*
+🔭 I’m currently working as Full Time *SDE I*
  
-🌱 I’m currently Working at Valuefy
+🌱 I’m currently Working at Valuefy(From Jan-2025-Present)
 
 🎆 How to reach me *prath47@gmail.com*
 
