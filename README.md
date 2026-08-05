@@ -4,6 +4,8 @@ Full-stack engineer at **Valuefy**, building backend and frontend systems for we
 
 Outside of work, I contribute to open source and build small AI-agent tools for fun.
 
+Out of Context, I Play lot of games, make youtube videos, I also produce music [Youtube](https://www.youtube.com/@prath04)
+
 ---
 
 ### 🔧 What I'm working on
