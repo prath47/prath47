@@ -1,65 +1,60 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Prathmesh!;" />
-</h1>
+# Hi, I'm Prathmesh 👋
 
-<h2 align="center">A passionate Software Developer</h2>
+Full-stack engineer at **Valuefy**, building backend and frontend systems for wealth-management platforms used by Indian banks — REST APIs, cron-based sync pipelines, and reporting infra serving ~4M users (cut report generation from 40s to 3s), plus an MCP server for natural-language querying of production databases. Also acting as a Forward Deployed Engineer — resolving production issues directly with clients — and own CI/CD pipeline setup.
 
-<br/>
+Outside of work, I contribute to open source and build small AI-agent tools for fun.
+
+---
+
+### 🔧 What I'm working on
+
+- **[Lunatik](https://github.com/luainkernel/lunatik)** (591★) — contributing conntrack and NAT support to a framework that runs Lua scripts *inside the Linux kernel*. Originally a GSoC 2026 project idea, now an active core project of the repo.
+- **[Emdash](https://github.com/generalaction/emdash)** (YC W26, 5.3k★) — 17+ merged PRs to this open-source agentic dev environment that orchestrates 20+ coding agent providers.
+- **[Database MCP Server](https://github.com/prath47/database-mcp-connector)** — a read-only SQL/DB MCP server in TypeScript that lets LLMs safely query databases using live schema context: AST-based query validation, a read-only DB role, query limits, audit logging, and Prisma-backed tools (query, describe, explain).
+- **[Self-Correcting RAG](https://github.com/prath47/crag-agent)** — a self-correcting RAG pipeline (LangGraph + LangChain, Postgres/pgvector, Voyage AI embeddings, FastAPI) that grades retrieved documents, routes between local/hybrid/web-only retrieval, and rewrites queries when it isn't confident.
+
+---
 
 <div align="center">
- 
-🔭 I’m currently working as Full Time *SDE I*
- 
-🌱 I’m currently Working at Valuefy(From Jan-2025-Present)
 
-🎆 How to reach me *prath47@gmail.com*
+![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app/?user=prath47&count_private=true&theme=react&border_radius=10)
 
-💬 Ask me about *Mern Stack, Competative Programming , DSA , Selenium*
-
-⚡ Fun fact *The original name for JavaScript was Mocha!*
-
- </div>
-
- </div>
- 
-<div align="center"> 
-  <a href="mailto:prath47@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/prathmesh-waghmare-591716231/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
 </div>
 
- <hr/>
+---
 
- <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,bootstrap,tailwind,javascript,react,mui,ubuntu,docker,postgres,prisma" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,typescript,postman,firebase,github,git,typescript,aws,cloudflare,nginx" /><br>
-</div>
+### 🧠 Competitive programming
+
+- LeetCode: [**1858**](https://leetcode.com/u/prathme47/) max rating (Top 5%)
+- Codeforces: [**1556**](https://codeforces.com/profile/prathmesh20) (Specialist)
+
+### 🛠️ Stack I reach for
+
+`TypeScript` `React` `Node.js` `Angular` `Python` `SQL` `Redis` `Elasticsearch` `Postgres / pgvector` `Prisma` `FastAPI` `LangChain / LangGraph` `MCP` `Vector Databases`
+
+### 📫 Reach me
+
+[LinkedIn](https://www.linkedin.com/in/prathmesh-waghmare-591716231/) · prathme47@gmail.com
 
 <br/>
 <hr/>
-
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=prath47&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=prath47&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+
+<div align="center">
+  <img width="450" src="https://github-readme-stats-salesp07.vercel.app/api?username=prath47&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=prath47&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width="450" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=prath47&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <hr/>
 
 <div align="center">
-	
+
 # A Snake Eating My Contributions 🐍
 
 </div>
+
 <p align="center">
 	<picture>
 		  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prath47/prath47/output/github-contribution-grid-snake-dark.svg">
